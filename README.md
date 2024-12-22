@@ -1,6 +1,5 @@
-# 4413Project
+# Ecommerce Store 
 
-This README is also available on [Github](https://github.com/EthanRei/4413Project)\
 The Frontend react source code can be found under the FRONTEND folder.
 ### Integrating the front-end with springboot
 - install node js
@@ -24,3 +23,6 @@ The command used to run the image is `docker run -p 8080:8080 polejimyahoo/proje
 ### Admin credentials
 User: admin\
 Pass: 123
+
+### link 
+https://image02-741152878318.us-central1.run.app/
